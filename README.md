@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KingPrince001
+- 👋 Hi, I’m John Chege
 - 👀 I’m interested in Artificial Intelligence, Machine Leraning, Deep Learning and Neural Networks.
 - 🌱 I’m currently learning Computer Science basics in a Bachelor's Degree program.
 - 💞️ I’m looking to collaborate on any fields mentioned above.
