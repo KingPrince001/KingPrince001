@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is John Chege
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is James Splitter
 ==================================================================================================================================
 
 Web Developer and Designer
@@ -6,8 +6,8 @@ Web Developer and Designer
 
 I am a full-stack web developer and designer with experience in React, Material UI, Node.js, Express, MSSQL, SQL, Azure, Figma, Vercel, and other web development frameworks and tools. I can build and create websites and web applications from the ground up, and I am also able to maintain and update existing websites and applications. I am passionate about my work and I am always looking for new ways to improve my skills and knowledge. I am also a strong advocate for user experience and user interface design, and I believe that all websites and applications should be visually appealing, easy to use, and accessible to everyone. If you are looking for a full-stack web developer and designer with a wide range of skills and experience, I would be happy to discuss your project with you.
 
-*   🌍  I'm based in Kenya
-*   ✉️  You can contact me at [johnchege2445@gmail.com](mailto:johnchege2445@gmail.com)
+*   🌍  I'm based in United Kingdom
+*   ✉️  You can contact me at [jamessplitter15@gmail.com](mailto:jamessplitter15@gmail.com)
 *   🧠  I'm learning AI and ML.
 *   🤝  I'm open to collaborating on Facial Recognition and Language Models.
 *   ⚡  I'm secretly a spider man.... but don't tell anyone. 😉
