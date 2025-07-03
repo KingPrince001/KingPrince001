@@ -24,7 +24,7 @@ I am a full-stack web developer and designer with experience in React, Material 
                   
     
   <p align="left">
-        <a href="https://www.facebook.com/John Prince" target="_blank" rel="noreferrer">
+        <a href="https://www.facebnoreferr Prince" target="_blank" rel="noreferrer">
       <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
@@ -38,28 +38,28 @@ I am a full-stack web developer and designer with experience in React, Material 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
       </picture>
       </a>
-        <a href="http://www.instagram.com/John Prince" target="_blank" rel="noreferrer">
+        <a href="http://www.instagram.com/Jon ce" target="_blank" rel="noreferrer">
       <picture>
       <source media="(prefers-color-scheme: dark)" srcset="undefined" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
       </picture>
       </a>
-        <a href="https://www.linkedin.com/in/John Prince" target="_blank" rel="noreferrer">
+        <a href="https://www.linkedin.com/in/n Prince" target="_blank" rel="noreferrer">
       <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
       </picture>
       </a>
-        <a href="https://www.stackoverflow.com/users/John Chege" target="_blank" rel="noreferrer">
+        <a href="https://www.stackoverflow.com/usersn Chege" target="_blank" rel="noreferrer">
       <picture>
       <source media="(prefers-color-scheme: dark)" srcset="undefined" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
       </picture>
       </a>
-        <a href="https://www.youtube.com/@kingprince001" target="_blank" rel="noreferrer">
+        <a href="https://www.youtube.com/@king01" target="_blank" rel="noreferrer">
       <picture>
       <source media="(prefers-color-scheme: dark)" srcset="undefined" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
